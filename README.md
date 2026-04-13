@@ -1,4 +1,2 @@
-## A Quarto Manuscript Template
-
-This is a template repo for generating a manuscript from Quarto that accompanies the tutorial at: [Quarto Manuscripts: RStudio](https://quarto.org/docs/manuscripts/authoring/rstudio.html)
+With the Hairy Shore Crab and European Green Crab, this project focuses on differeing prey/predator responses in varying temperatures.
 
